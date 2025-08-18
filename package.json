@@ -1,0 +1,29 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "This is javascript-practice by Priti tripathi",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priti8285/Namaste-javascript.git"
+  },
+  "keywords": [],
+  "author": "Priti tripathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priti8285/Namaste-javascript/issues"
+  },
+  "homepage": "https://github.com/priti8285/Namaste-javascript#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+  "last 2 versions"
+  ]
+}
